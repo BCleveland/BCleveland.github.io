@@ -1,5 +1,5 @@
-here is some text before header one
-# Curve Flow
+Curve Flow
+==========
 This is my Capstone project! It does some things
 ## Quick Showcase
 utube link
