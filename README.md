@@ -1,2 +1,2 @@
-# BCleveland.github.io
-Resume Website
+# BCleveland.Github.io
+Automatically hosts my resume website
