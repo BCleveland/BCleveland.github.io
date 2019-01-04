@@ -1,5 +1,7 @@
+here is some text before header one
 # Curve Flow
-# also a header one
-## header two
-
-This is my Capstone project!
+This is my Capstone project! It does some things
+## Quick Showcase
+utube link
+## Full Explanation and Speech
+utube link
