@@ -1,3 +1,5 @@
-# header one
+# Curve Flow
+# also a header one
+## header two
 
-some default text
+This is my Capstone project!
