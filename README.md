@@ -1,2 +1,2 @@
-# BCleveland.Github.io
-Automatically hosts my resume website
+# Brendan Cleveland
+Repo setup to automatically hosts my resume
