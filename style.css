@@ -1,19 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Lora|Slabo+27px');
 body{
     background-color: #ced3dc;
+}
+h1{
+    font-family: 'Lora', serif;
+}
+nav{
+    display:table;
+    margin: 0 auto;
 }
 .mainbody{
     background-color: #fcf7f8;
     border:3px solid #aba9c3;
     color:#5b616a;
-    margin: 10px;
-    padding:10px;
+    margin: 10px 15%;
+    padding:20px;
     border-radius: 10px;
+    font-family: 'Slabo 27px', serif;
 }
 ul {
     list-style-type: none;
     padding: 0;
     overflow: hidden;
     margin: 0px;
+    font-family: 'Slabo 27px', serif;
 }
 .currentPage a{
     background-color: #aba9c3;
