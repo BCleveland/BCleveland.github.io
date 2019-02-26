@@ -7,5 +7,37 @@ body{
     color:#5b616a;
     margin: 10px;
     padding:10px;
-    
+    border-radius: 10px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    margin: 0px;
+}
+.currentPage a{
+    background-color: #aba9c3;
+}
+li {
+    float: left;
+    margin: 0px 10px;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border:3px solid #aba9c3;
+    background-color: #fcf7f8;
+    border-radius: 10px;
+}
+li a:link{
+    color: black;
+}
+li a:visited{
+    color: black;
+}
+li a:hover {
+    background-color: #9a8c98;
 }
