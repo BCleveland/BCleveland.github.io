@@ -2,7 +2,7 @@
 body{
     background-color: #ced3dc;
 }
-h1{
+h1,h2{
     font-family: 'Lora', serif;
 }
 nav{
@@ -41,12 +41,13 @@ li a {
     border:3px solid #aba9c3;
     background-color: #fcf7f8;
     border-radius: 10px;
+    font-size: 20px;
 }
 li a:link{
-    color: black;
+    color:#5b616a;
 }
 li a:visited{
-    color: black;
+    color:#5b616a;
 }
 li a:hover {
     background-color: #9a8c98;
