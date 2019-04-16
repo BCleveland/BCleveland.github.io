@@ -18,17 +18,27 @@ nav{
     border-radius: 10px;
     font-family: 'Slabo 27px', serif;
 }
-ul {
+nav ul {
     list-style-type: none;
     padding: 0;
     overflow: hidden;
     margin: 0px;
     font-family: 'Slabo 27px', serif;
 }
+.mainbody ul{
+    padding: 0;
+    overflow: hidden;
+    margin: 0px;
+    font-family: 'Slabo 27px', serif;
+}
+img{
+    max-width:100%;
+    max-height:100%;
+}
 .currentPage a{
     background-color: #aba9c3;
 }
-li {
+nav li {
     float: left;
     margin: 0px 10px;
 }
