@@ -1,19 +1,21 @@
-@import url('https://fonts.googleapis.com/css?family=Lora|Slabo+27px');
+@import url('https://fonts.googleapis.com/css?family=Raleway|Lola');
 body{
-    background-color: #ced3dc;
+    background-color: #d8c5d8;
+    font-family: 'Raleway', sans-serif;
 }
-h1,h2{
-    font-family: 'Lora', serif;
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Lola', sans-serif;
 }
 nav{
     display:table;
-    width:70%;
-    margin: 0 15%;
+    width:90%;
+    margin: 0 5%;
+    font-family: 'Raleway', sans-serif;
 }
 .mainbody{
-    background-color: #fcf7f8;
-    color:#5b616a;
-    margin: 0 15% -15px 15%;
+    background-color: #ededed;
+    color:#363946;
+    margin: 0 5% -15px 5%;
     padding:20px;
     font-family: 'Slabo 27px', serif;
 }
@@ -37,11 +39,11 @@ img{
     max-height:100%;
 }
 .currentPage a, .currentPage a:visited{
-    background-color: #fcf7f8;
-    color: #9a8c98;
+    background-color: #ededed;
+    color: #363946;
     font-style: italic;
     border: none;
-    border-top: 1px solid #fcf7f8;
+    border-top: 1px solid #ededed;
 }
 nav li {
     float: left;
@@ -54,19 +56,19 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    background-color: #aba9c3;
+    background-color: #bcb0c5;
     font-size: 19px;
     border-top-left-radius: 25px;
     border-top-right-radius: 25px;
-    border: 1px solid #5b616a;
+    border: 1px solid #5c6174;
     border-bottom: none;
 }
 li a:link{
-    color:#5b616a;
+    color:#5c6174;
 }
 li a:visited{
-    color:#5b616a;
+    color:#5c6174;
 }
 li a:hover {
-    background-color: #9a8c98;
+    background-color: #c2b3ce;
 }
