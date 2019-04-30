@@ -6,18 +6,26 @@ body{
 h1,h2,h3,h4,h5,h6{
     font-family: 'Lola', sans-serif;
 }
+h1{
+    margin-bottom: 50px;
+}
 nav{
     display:table;
-    width:90%;
-    margin: 0 5%;
+    width:80%;
+    margin: 0 10%;
     font-family: 'Raleway', sans-serif;
+}
+iframe{
+    margin: 16px 0px;
 }
 .mainbody{
     background-color: #ededed;
     color:#363946;
-    margin: 0 5% -15px 5%;
-    padding:20px;
+    margin: 0 10% -15px 10%;
+    padding:20px 60px;
     font-family: 'Slabo 27px', serif;
+    font-size: 20px;
+    text-align:center;
 }
 nav ul {
     list-style-type: none;
